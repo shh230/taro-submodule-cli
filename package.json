@@ -1,0 +1,21 @@
+{
+  "name": "@hlang/taro-submodule-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "taro-submodule-cli": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:shh230/taro-submodule-cli.git"
+  },
+  "author": "shh",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
